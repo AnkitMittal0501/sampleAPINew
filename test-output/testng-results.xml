@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3846" started-at="2019-06-05T12:52:44Z" finished-at="2019-06-05T12:52:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3846" started-at="2019-06-05T12:52:44Z" finished-at="2019-06-05T12:52:47Z">
+      <class name="get.api.test.TestPostAPI">
+        <test-method status="PASS" signature="callPostAPI()[pri:0, instance:get.api.test.TestPostAPI@2a2d45ba]" name="callPostAPI" duration-ms="3782" started-at="2019-06-05T12:52:44Z" finished-at="2019-06-05T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callPostAPI -->
+      </class> <!-- get.api.test.TestPostAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
